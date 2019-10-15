@@ -21,16 +21,17 @@ the most likely cause==最有可能的原因
 ```
 ```
 2. Ahmed is a sales manager with a major insurance company.
-He has received an email that is encouraging him to click on a link and fill out a survey. He is suspicious of the email,
-but it does mention a major insurance association, and that makes him think it might be legitimate.
+He has received an email that is encouraging(鼓勵) him to click on a link(連結) and fill out a survey. 
+He is suspicious(懷疑) of the email,but it does mention a major insurance association(保險協會),
+and that makes him think it might be legitimate(合法).
 Which of the following best describes this attack?
-A. Phishing
-B. Social engineering
-C. Spear phishing (魚叉式網路釣魚)
-D. Trojan horse
+A. Phishing 網路釣魚
+B. Social engineering 社交工程
+C. Spear phishing 魚叉式網路釣魚:特定對象
+D. Trojan horse 木馬
 ```
 
 ```
-Which of the following (最適合描述的)
+Which of the following ==下列何者
 答案:C 
 ```
