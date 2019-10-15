@@ -79,10 +79,10 @@ D. Whaling 網路捕鯨
 # 32 
 ```
 32. You are concerned(關注) about a wide range(大範圍) of attacks that could(可能) affect(影響) your company’s(公司) 
-web server(網路服務器). You have recently(最近) read(讀) about an attack wherein the attacker sends(發送) more data 
-to the target(目標) than the target is expecting(超出目標預期). If done properly(如果做得好),
+web server(網路服務器). You have recently(最近) read(讀) about an attack wherein the attacker sends(發送) 
+more data  to the target(目標) than the target is expecting(超出目標預期). If done properly(如果做得好),
 this could cause the target to crash(導致目標崩潰).
-What would best prevent this type of attack?
+What would best prevent(防止) this type of attack?
 A. An SPI firewall SPI防火牆
 B. An active IDS/IPS 入侵預防系統. （IPS）. 入侵偵測系統. （IDS)
 C. Checking buffer boundaries 檢查緩衝區邊界
