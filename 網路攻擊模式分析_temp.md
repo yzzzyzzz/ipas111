@@ -12,6 +12,7 @@ B. Boot(啟動) sector(區域) virus
 C. Rootkit
 D. Key logger (鍵盤側錄)
 ```
+```
 the most likely cause==最有可能的原因
 答案:B
 ```
