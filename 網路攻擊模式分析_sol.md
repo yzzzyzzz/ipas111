@@ -1,7 +1,5 @@
-#
-```
+# 1
 
-```
 ```
 1. John is analyzing(分析) strange behavior (奇怪的行為) on computers in his network.
 He believes there is malware(惡意軟體) on the machines. 
